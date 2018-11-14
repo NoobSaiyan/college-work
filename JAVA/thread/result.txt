@@ -1,0 +1,22 @@
+Calling Implemented thread
+Implemented class started Thread-1
+Calling Extended thread
+Implemented class started Thread-0
+Count Implimented:0
+Count Implimented:0
+Extended class started Thread-1
+Extended class started Thread-0
+Count Extended:0
+Count Extended:0
+Count Implimented:1
+Count Implimented:1
+Count Extended:1
+Count Extended:1
+Count Implimented:2
+Count Implimented:2
+Count Extended:2
+Count Extended:2
+Implemented class ended Thread-1
+Implemented class ended Thread-0
+Extended class ended Thread-1
+Extended class ended Thread-0
