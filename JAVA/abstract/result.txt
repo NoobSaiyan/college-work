@@ -1,0 +1,2 @@
+This is overried function of abstract class B
+Trying overriding

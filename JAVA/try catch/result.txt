@@ -1,0 +1,3 @@
+This is catch block result: 3
+This is finally block result: 3
+This is ouside try and catch result: 3
